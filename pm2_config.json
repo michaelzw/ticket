@@ -3,7 +3,7 @@
     "name"        : "ticket",
     "script"      : "./app/index.js",
     "watch"       : true,
-    "exec_interpreter" : "babel-node",
-    "exec_mode"        : "fork",
+    "exec_interpreter" : "npx babel-node",
+    "exec_mode"        : "fork"
   }]
 }
